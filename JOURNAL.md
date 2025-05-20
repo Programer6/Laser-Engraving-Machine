@@ -1,15 +1,15 @@
 Made by: @codelife / @programmer6
+# Dual
 
+**Project Status:**
 
-Project Status: 
+**Total Design Hours:** 
 
-Total Design Hours: ----
+**CAD:** 
 
-CAD: 
+**Respository link:** 
 
-Respository link:
-
-BOM: 
+**BOM:** 
 
 
 Project Overview
