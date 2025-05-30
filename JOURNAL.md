@@ -60,7 +60,10 @@ Added the final touches and design tochscreen holder for MKS TS35 and MKS DLC32 
 <img width="474" alt="Screenshot 2025-05-30 at 9 04 24 PM" src="https://github.com/user-attachments/assets/f552fbc6-718f-4ccc-8082-f69657153370" />
 
 
-# Final Design withou toolhead:
+# Final Design without toolhead:
 <img width="943" alt="Screenshot 2025-05-30 at 8 59 40 PM" src="https://github.com/user-attachments/assets/c37eab13-675c-4d67-b6bc-135fe4859ab3" />
 
 
+So for the toolhead: I am planningfor the laser engraver I am using the module made by MELKANO as it really well desinged with no need for modification while I custom designed my pencil plotter using a mecahnism in which the pen is mounted inside a pen holder tube or carriage. The pen can move up and down freely inside this tube with a spring is placed above which pushes the pen downward so that when the pen is lowered onto the paper, it makes contact lightly but firmly.
+
+<img width="411" alt="Screenshot 2025-05-30 at 9 06 48 PM" src="https://github.com/user-attachments/assets/f6ae0b6c-744c-4e44-9080-2a4ec37db868" />
