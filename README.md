@@ -3,6 +3,8 @@ This project is a DIY multi-functional CNC machine capable of both pen plotting 
 
 You can swap between a pen holder (for precision drawing) and a laser module (for engraving and light cutting. Thus, getting the benift of both.
 
+<img width="903" alt="Screenshot 2025-05-30 at 10 09 55 PM" src="https://github.com/user-attachments/assets/9a09ab16-17f8-4511-96b5-0a1a03db0bdc" />
+
 # Motivation
 The aim is to develop a cost-effective and versatile CNC device that would incorporate all the characteristics of a pen plotter and a laser engraver. By modularizing the system, you will be able to quickly switch from drawing to engraving, or an array of representative and technical endeavors.
 
