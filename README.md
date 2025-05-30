@@ -1,4 +1,4 @@
-# Laser-Engraving-Machine
+# Dual Laser Engraving and Pencil Plotter Machine
 This project is a DIY multi-functional CNC machine capable of both pen plotting and laser engraving.
 
 You can swap between a pen holder (for precision drawing) and a laser module (for engraving and light cutting. Thus, getting the benift of both.
