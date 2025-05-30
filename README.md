@@ -46,4 +46,38 @@ Total Estimated Cost: ~$285 Please not that the BOM is really first draft
 - Configure the firmware settings to match the specifications of your machine. (WIP)
 - Use software like Inkscape with plugins, LightBurn, or LaserGRBL to create and send G-code files to the machine.
 
+# Power Supply (12 V, ≥6 A)
+12 V PSU +  ─> VIN+ on MKS DLC32
+12 V PSU –  ─> GND on  MKS DLC32
+
+# MKS TS35 Touchscreen
+TS35 VCC ─> 5 V on MKS DLC32
+TS35 GND ─> GND on MKS DLC32
+TS35 TX  ─> RX2 (U2RX) on   MKS DLC32
+TS35 RX  ─> TX2 (U2TX) on   MKS DLC32
+
+# Stepper Drivers (A4988) & NEMA17 Motors
+A4988 VDD ─> 5 V on MKS DLC32
+A4988 GND ─> GND on   MKS DLC32
+A4988 VMOT ─> 12 V PSU +
+A4988 GND -> 12 V PSU –  (same as MKS DLC32 GND)
+
+A4988 STEP ─> X: STP_X on MKS DLC32  (use “X-STEP” pin)
+A4988 DIR ─> X: DIR_X on MKS DLC32  (use “X-DIR” pin)
+A4988 EN ─> X: EN_X on  MKS DLC32  (tie LOW or to “X-EN”)
+
+A4988 STEP ─> Y: STP_Y on MKS DLC32  (use “Y-STEP” pin)
+A4988 DIR ─> Y: DIR_Y on MKS DLC32  (use “Y-DIR” pin)
+A4988 EN ─> Y: EN_Y on  MKS DLC32  (tie LOW or to “Y-EN”)
+Motor coils ─> A4988 1A,1B,2A,2B (match coil pairs)
+
+# Z-Axis Pen Lift (SG90 Servo)
+SG90 Signal ─> PWM1 on MKS DLC32  
+SG90 VCC ─> 5 V on MKS DLC32
+SG90 GND ─> GND on   MKS DLC32
+
+
+Laser PWM ->  Laser PWM Output on MKS DLC32 
+Laser VCC ─> +12 V PSU +
+Laser GND ─> GND (shared)
 
