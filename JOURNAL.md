@@ -50,12 +50,17 @@ Inorder for all the 4 extrusion to hold up and create the sqare sturcture I need
 
 <img width="158" alt="Screenshot 2025-05-30 at 8 42 19 PM" src="https://github.com/user-attachments/assets/a3430e79-7dbb-4a8c-b2cd-21bfccfaacc0" />
 <img width="238" alt="Screenshot 2025-05-30 at 8 48 03 PM" src="https://github.com/user-attachments/assets/c4589ba1-7639-4812-801c-4384eeb03c68" />
+<img width="749" alt="Screenshot 2025-05-30 at 9 05 33 PM" src="https://github.com/user-attachments/assets/60d07cd1-bfe6-439c-88e7-a7eb1e746f90" />
+
 
 # 3 Hour - 29th May 2025
 Added the final touches and design tochscreen holder for MKS TS35 and MKS DLC32 board case attached to the 20*20 extrusions
-<img width="781" alt="Screenshot 2025-05-30 at 8 51 41 PM" src="https://github.com/user-attachments/assets/c93cc841-5e6a-4f6b-8080-2665a99b9a21" />
 
-Final Design withou toolhead:
+<img width="781" alt="Screenshot 2025-05-30 at 8 51 41 PM" src="https://github.com/user-attachments/assets/c93cc841-5e6a-4f6b-8080-2665a99b9a21" />
+<img width="474" alt="Screenshot 2025-05-30 at 9 04 24 PM" src="https://github.com/user-attachments/assets/f552fbc6-718f-4ccc-8082-f69657153370" />
+
+
+# Final Design withou toolhead:
 <img width="943" alt="Screenshot 2025-05-30 at 8 59 40 PM" src="https://github.com/user-attachments/assets/c37eab13-675c-4d67-b6bc-135fe4859ab3" />
 
 
