@@ -76,4 +76,5 @@ Worked on finishing the journal documentation, circut diagram, and shipping the 
 # 1 Hour - 31th May 2025
 I completely finsihed desinging my toolhead for my pencil plotter here is the progress:
 
+It works by place a spring above the pen to apply downward pressure, ensuring consistent contact with the paper during plotting.
 <img width="675" alt="Screenshot 2025-05-31 at 8 34 40 AM" src="https://github.com/user-attachments/assets/06c7460d-0cca-4ea9-b95b-d0c6bb29b4d6" />
