@@ -78,3 +78,23 @@ I completely finsihed desinging my toolhead for my pencil plotter here is the pr
 
 It works by place a spring above the pen to apply downward pressure, ensuring consistent contact with the paper during plotting.
 <img width="675" alt="Screenshot 2025-05-31 at 8 34 40 AM" src="https://github.com/user-attachments/assets/06c7460d-0cca-4ea9-b95b-d0c6bb29b4d6" />
+
+
+# BOM at the movement:
+
+| Component                           | Quantity | Estimated Cost (USD) | Source         |
+| ----------------------------------- | -------- | -------------------- | -------------- |
+| 20x20 Aluminum Extrusions           | 5        | \$25                 | Local Supplier |
+| Stepper Motors (NEMA 17)            | 3        | \$30                 | Aliexpress     |
+| Stepper Motor Cables                | 3        | \$5                  | Aliexpress     |
+| Stepper Motor Controller Board (L1) | 1        | \$15                 | Aliexpress     |
+| Timing Belts and Pulleys            | 2 sets   | \$10                 | Aliexpress     |
+| Screws, Washers, Spacers            | Various  | \$10                 | Local Supplier |
+| Laser Module (20W)                  | 1        | \$60                 | Aliexpress     |
+| MKS DLC32 Control Board             | 1        | \$20                 | Aliexpress     |
+| MKS TS35 Touchscreen                | 1        | \$25                 | Aliexpress     |
+| Acrylic Panels                      | 6        | \$15                 | Local Supplier |
+| Power Supply Unit                   | 1        | \$20                 | Aliexpress     |
+| Miscellaneous (Wiring, Connectors)  | Various  | \$10                 | Local Supplier |
+
+Total Estimated Cost: ~$285 Please not that the BOM is really first draft
