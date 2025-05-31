@@ -31,7 +31,7 @@ The aim is to develop a cost-effective and versatile CNC device that would incor
 | Power Supply Unit                   | 1        | \$20                 | Aliexpress     |
 | Miscellaneous (Wiring, Connectors)  | Various  | \$10                 | Local Supplier |
 
-Total Estimated Cost: ~$285 Please not that the BOM is really first draft
+Total Estimated Cost: ~$250 Please not that the BOM is really first draft the BOM is likely to go up
 
 # Assembly Instructions
 1. 3D print the files form the repo in the /cad folder
