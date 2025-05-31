@@ -17,7 +17,7 @@ This project is a DIY multi-functional CNC machine capable of both pen plotting 
 
 You can swap between a pen holder (for precision drawing) and a laser module (for engraving and light cutting. Thus, getting the benift of both.
 
-## Research: 2 Hour - 20th May 2025
+## Research: 3 Hour - 20th May 2025
 
 Spent about two hours researching how laser engravers and pen holders actually work. Brain dump of what learn/ reseached:
 -  Stepper motors and belts or screws to control the X and Y axes
@@ -28,7 +28,7 @@ Spent about two hours researching how laser engravers and pen holders actually w
 -  Learned a bit about programes such as  Inkscape with plugins, LightBurn, or LaserGRBL
 
 
-# 4-5 Hour - 20th May 2025
+# 5 Hour - 20th May 2025
 
 Today i spent crazy amount of time designing the linear rail profile in which I had to make carfull consideration of the alignment and spacing - Sketch and extrude to fit 2020 extrusions. This is the end result from the work: I hade to make one and then mirror the other 
 <img width="543" alt="Screenshot 2025-05-30 at 8 30 52 PM" src="https://github.com/user-attachments/assets/02e9683d-df95-49eb-9bbf-1de11932c8c3" />
@@ -37,7 +37,7 @@ Today i spent crazy amount of time designing the linear rail profile in which I 
 <img width="271" alt="Screenshot 2025-05-30 at 9 01 10 PM" src="https://github.com/user-attachments/assets/b7963f76-e5e5-4674-b4c1-36ade7ab0397" />
 
 
-# 1-2 Hour - 28th May 2025
+# 2 Hour - 28th May 2025
 Today, I finished by creating the rolling tool head mechanism as you can see in the image. This goal of this was to make make it easily swappably between the laser diode and well as the pencil plotter.
 <img width="686" alt="Screenshot 2025-05-30 at 8 35 21 PM" src="https://github.com/user-attachments/assets/89ef7d8b-ebdd-43e2-ba39-05967cf3a9b7" />
 <img width="567" alt="Screenshot 2025-05-30 at 9 01 44 PM" src="https://github.com/user-attachments/assets/ae9f60a5-1353-4592-ac39-879a013da294" />
@@ -64,8 +64,16 @@ Added the final touches and design tochscreen holder for MKS TS35 and MKS DLC32 
 <img width="943" alt="Screenshot 2025-05-30 at 8 59 40 PM" src="https://github.com/user-attachments/assets/c37eab13-675c-4d67-b6bc-135fe4859ab3" />
 
 
-#So for the toolhead: 
+# So for the toolhead: 
 
 For the laser engraver I am using the module made by MELKANO as it really well desinged with no need for modification while I custom designed my pencil plotter using a mecahnism in which the pen is mounted inside a pen holder tube or carriage. The pen can move up and down freely inside this tube with a spring is placed above which pushes the pen downward so that when the pen is lowered onto the paper, it makes contact lightly but firmly.
 
 <img width="411" alt="Screenshot 2025-05-30 at 9 06 48 PM" src="https://github.com/user-attachments/assets/f6ae0b6c-744c-4e44-9080-2a4ec37db868" />
+
+# 30 3 Hours
+Worked on finishing the journal documentation, circut diagram, and shipping the projects! I have created a really rough BOM also but this will need updating!
+
+# 1 Hour - 31th May 2025
+I completely finsihed desinging my toolhead for my pencil plotter here is the progress:
+
+<img width="675" alt="Screenshot 2025-05-31 at 8 34 40 AM" src="https://github.com/user-attachments/assets/06c7460d-0cca-4ea9-b95b-d0c6bb29b4d6" />
